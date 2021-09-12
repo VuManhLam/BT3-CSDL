@@ -1,0 +1,12 @@
+E:\Visual studio\BT\BT3\BT3\bin\Debug\BT3.exe
+E:\Visual studio\BT\BT3\BT3\bin\Debug\BT3.pdb
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.csproj.AssemblyReference.cache
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.Properties.Resources.resources
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.csproj.GenerateResource.cache
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.exe
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.pdb
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.AddFeedFrom.resources
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.Components.New.resources
+E:\Visual studio\BT\BT3\BT3\obj\Debug\BT3.MainForm.resources
+E:\Visual studio\BT\BT3\BT3\bin\Debug\data\Data.txt
